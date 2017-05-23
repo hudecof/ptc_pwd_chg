@@ -1,0 +1,7 @@
+*.swp
+*.png
+*.log
+*.pyc
+phantomjs
+phantomjs-*
+env/
